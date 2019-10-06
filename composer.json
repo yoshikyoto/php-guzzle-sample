@@ -6,5 +6,7 @@
             "email": "stb_yoshiyuki-s@hotmail.co.jp"
         }
     ],
-    "require": {}
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
+    }
 }
